@@ -1,4 +1,4 @@
-print("Calculadora de médias das provas.")
+print("Calculadora de médias de notas.")
 
 def calcular_notas():
     notas = []
